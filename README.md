@@ -66,8 +66,7 @@ PDF Report for stakeholders
 
 
 ### 📬 Contact
-
-**Sufiyan B**  
+If you find this project insightful or want to collaborate, feel free to ⭐ star this repo and connect with me on 
 📧 [syedsufiyan251@gmail.com](mailto:syedsufiyan251@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-sufiyan-32995b232)  
 📁 [Portfolio: MyGreatLearning Profile](https://www.mygreatlearning.com/eportfolio/b-sufiyan)
