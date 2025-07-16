@@ -12,24 +12,28 @@ Make data-informed decisions for marketing
 
 Enhance customer targeting strategies
 
-🔍 Dataset Description
-The dataset austo_automobile.csv contains:
+## 📊 Dataset Description
 
-Column	Description
-Age	Age of the individual
-Gender	Male or Female
-Profession	Occupation
-Marital_status	Married / Single
-Education	Graduate / Postgraduate
-No_of_Dependents	Number of dependents
-Personal_loan	Has a personal loan (Yes/No)
-House_loan	Has a house loan (Yes/No)
-Partner_working	Is partner employed (Yes/No)
-Salary	Individual’s income
-Partner_salary	Partner’s income
-Total_salary	Combined salary
-Price	Price of car purchased
-Make	Car type (SUV, Sedan, Hatchback)
+The dataset used in this project, `austo_automobile.csv`, contains information about customer demographics and automobile purchase behavior. Below is a brief description of the fields:
+
+| Feature             | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| `Age`               | The age of the individual in years                                           |
+| `Gender`            | The gender of the individual (Male/Female)                                  |
+| `Profession`        | The occupation or profession of the individual                               |
+| `Marital_status`    | Marital status: Married or Single                                            |
+| `Education`         | Educational qualification: Graduate or Post Graduate                         |
+| `No_of_Dependents`  | Number of financial dependents (e.g., children, parents)                     |
+| `Personal_loan`     | Whether the person has a personal loan (`Yes` or `No`)                       |
+| `House_loan`        | Whether the person has a house loan (`Yes` or `No`)                          |
+| `Partner_working`   | Whether the partner of the person is working (`Yes` or `No`)                 |
+| `Salary`            | The salary of the individual                                                 |
+| `Partner_salary`    | Salary of the individual’s partner (if applicable)                           |
+| `Total_salary`      | Combined salary of the individual and partner                                |
+| `Price`             | Price of the automobile purchased                                            |
+| `Make`              | The type of automobile (SUV, Sedan, Hatchback)                               |
+
+
 
 ❓ Questions Answered
 Do men tend to prefer SUVs more than women?
