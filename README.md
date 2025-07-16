@@ -64,15 +64,6 @@ Advanced Excel
 PDF Report for stakeholders
 
 
-## ▶️ Run the Code
-
-To reproduce the analysis:
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/<your-username>/Automobile-Customer-Behaviour-Analysis.git
-cd Automobile-Customer-Behaviour-Analysis
 
 ### 📬 Contact
 
